@@ -11,7 +11,7 @@ export default {
       return (
         <label className="flex items-center text-gray-400 text-xs gap-3 cursor-pointer">
           {Story()}
-          Accept terms and conditions.
+          Accept terms and conditions
         </label>
       )
     }
